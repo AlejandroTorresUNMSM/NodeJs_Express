@@ -7,7 +7,7 @@ npm install
 npm start || npm run dev
 
 #### Dependencias
-color  - dar color a las letras
-ejs - motor de plantillas
-express - framework de nodejs
-morgan -  Middleware de nodejs
+*color  - dar color a las letras
+*ejs - motor de plantillas
+*express - framework de nodejs
+*morgan -  Middleware de nodejs
